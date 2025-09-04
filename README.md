@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/yousseffarouk1" target="_blank">
+  <a href="https:www.linkedin.com/in/yousseffarouk1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
     <a href="http://discordapp.com/users/601569176859050003" target="_blank">
@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yossiffarouk/yossiffarouk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
