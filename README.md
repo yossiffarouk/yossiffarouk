@@ -44,10 +44,10 @@
   <a href="www.linkedin.com/in/yousseffarouk1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="yousseffarouk._." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="youssef00farouk@gmail.com" target="_blank">
+    <a href="http://discordapp.com/users/601569176859050003" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+      </a>
+  <a href="mailto:youssef00farouk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://wa.link/lkt8d9" target="_blank">
@@ -64,10 +64,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yossiffarouk/yossiffarouk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yossiffarouk/yossiffarouk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yossiffarouk/yossiffarouk/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/yossiffarouk/yossiffarouk/output/snake.svg" alt="Snake animation" />
 
 ###
